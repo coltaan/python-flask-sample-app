@@ -1,3 +1,6 @@
 .eggs
 .pytest_cache/
 minitwit.egg-info
+
+# jetbrain products
+.idea
